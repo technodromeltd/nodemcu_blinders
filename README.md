@@ -9,10 +9,11 @@ Runs small web server with interface web page to control blinders. Counts revolu
 Features
 - Control via WiFi 
 - Works with any device as a web app
-- Calibrate up down pos
+- Calibrate up/down pos
 - All the way up/down
 - 1 step up/down
 - EEPROM memory used for last_pos so no need to calibrate in case of power loss 
+- OTA updates
 
 
 General Instructions:
